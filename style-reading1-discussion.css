@@ -1,0 +1,31 @@
+h2{
+	color: black;
+	text-align: center;
+	font-size:2em;
+	margin-left:20px;
+	letter-spacing:0.5px;
+	font-family: serenity
+
+}
+
+h5{
+	color: tomato;
+	font-size:2em;
+	margin-left:20px;
+	letter-spacing:0.2px;
+	font-family: serenity
+
+
+
+
+	
+}
+
+p{
+	margin-left:30px;
+	letter-spacing:0.5px;
+	line-height: 1.5;
+	font-family: serenity
+
+	
+}
