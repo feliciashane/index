@@ -1,0 +1,226 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: transparent;
+}
+
+h1 {
+  font-family: "Poppins";
+  color: #43515c;
+  font-size: 70px;
+  font-weight: lighter;
+  letter-spacing: -5px;
+  padding: 50px 0px 0px 0px;
+  z-index: 999;
+}
+
+p {
+  font-family: "Poppins";
+  color: #43515c;
+  font-size: 24px;
+  font-weight: 100;
+  z-index: 999;
+}
+
+.first-section {
+  width: 100%;
+  height: 150vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+}
+
+.first-section .images-wrapper {
+  position: absolute;
+}
+
+.ingredient-images {
+  position: absolute;
+  width: 400px;
+  left: calc(100% - 400px);
+  height: 530px;
+  top: 920px;
+}
+
+.section_1_01 { /*lettuce*/
+  position: absolute;
+  top: 20px;
+  right: 500px;
+}
+
+.section_1_02 {/*kerupuk*/
+  position: absolute;
+  top: 80px;
+  right: 380px;
+}
+
+.section_1_03 {/*sayur*/
+  position: absolute;
+  top: 130px;
+  right: 770px;
+}
+
+.section_1_04 {/*egg2*/
+  position: absolute;
+  top: 130px;
+  right: 700px;
+}
+
+.section_1_05 {/*soft-tofu*/
+  position: absolute;
+  top: 225px;
+  right: 500px;
+}
+
+.section_1_06 {/*beans*/
+  position: absolute;
+  top: 120px;
+  right: 510px;
+}
+
+.section_1_07 {/*egg1*/
+  position: absolute;
+  top: 150px;
+  right: 650px;
+}
+
+.section_1_08 {/*fried-tofu*/
+  position: absolute;
+  top: 250px;
+  right: 680px;
+}
+
+.section_1_09 {/*green beans*/
+  position: absolute;
+  top: 230px;
+  right: 450px;
+}
+/*section2*/
+.second-section {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+}
+
+.second-section .images-wrapper {
+  position: absolute;
+  display: flex;
+  padding: 300px 0;
+  top: 20%;
+  overflow: hidden;
+}
+
+.image-container {
+  overflow: hidden;
+  height: 100%;
+}
+
+
+.section_2_01 { /*satay*/
+  position: absolute;
+  top: 150px;
+  right: 650px;
+}
+
+.section_2_02 {/*saos2*/
+  position: absolute;
+  top: 130px;
+  right: 580px;
+}
+
+.section_2_03 {/*saos1*/
+  position: absolute;
+  top: 230px;
+  right: 450px;
+}
+
+.section_2_04 {/*tomato*/
+  position: absolute;
+  top: 220px;
+  right: 550px;
+}
+/*section3*/
+
+
+.forth-section {
+  width: 100%;
+  height: 300vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+  top: 1020px;
+}
+
+.forth-section .images-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.forth-section .images-wrapper img {
+  position: absolute;
+}
+.section_4_01 {/*layer1-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 380px;
+}
+.section_4_02 {/*layer2-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 380px;
+}
+.section_4_03 {/*layer3-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 380px;
+}
+.section_4_04 {/*layer4-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 380px;
+}
+.section_4_05 {/*layer5-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 380px;
+}
+.section_4_06 {/*layer6-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 380px;
+}
+.section_4_07 {/*layer7-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 380px;
+}
+.section_4_08 {/*layer8-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 380px;
+}
+.section_4_09 {/*layer9-naskun*/
+  position: absolute;
+  top: 720px;
+  right: 376px;
+}
+
+.video{/*layer9-naskun*/
+  position: absolute;
+  border-radius: 20px;
+  top: 6950px;
+  bottom:1000px;
+  right: 180px;
+}
