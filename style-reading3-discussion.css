@@ -1,0 +1,38 @@
+h2{
+	color: black;
+	text-align: center;
+	font-size:2em;
+	margin-left:20px;
+	letter-spacing:0.5px;
+	font-family: montserrat
+
+}
+
+h3{
+	color: tomato;
+	font-size:1.2em;
+	margin-left:20px;
+	letter-spacing:0.2px;
+	font-family: montserrat
+
+
+
+
+	
+}
+
+p{
+	margin-left:30px;
+	letter-spacing:0.5px;
+	line-height: 1.5;
+	font-family: montserrat
+
+	
+}
+a{
+	margin-left:30px;
+	letter-spacing:0.5px;
+	line-height: 1.5;
+	color: tomato;
+	font-family: montserrat
+}
