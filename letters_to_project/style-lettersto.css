@@ -8,7 +8,7 @@ body {
 }
 .container{
 	position: relative;
-	background-color: rgba(255, 153, 36, 0.5); 
+	opacity:0;
 }
 .btn {
   border: none; /* Remove borders */
@@ -28,10 +28,10 @@ body {
 
 .button1{
 	position:absolute;
-	left:10%;
+	left:100px;
 	right:auto;
 	background:none;
-	background-color: rgba(255, 153, 36, 0.5); 
+	opacity:0;
 }
 
 .button2{
