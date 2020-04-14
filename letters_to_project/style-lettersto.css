@@ -30,14 +30,14 @@ body {
 	position:absolute;
 	left:10%;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 
 .button2{
 	position: absolute;
 	left:400px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 
 .button3{
@@ -45,7 +45,7 @@ body {
 	left:200px;
 	top:500px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 
 .button4{
@@ -53,7 +53,7 @@ body {
 	left:400px;
 	top:400px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 
 
@@ -62,7 +62,7 @@ body {
 	left:250px;
 	top:370px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 
 .button6{
@@ -70,56 +70,56 @@ body {
 	left:550px;
 	top:170px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button7{
 	position: absolute;
 	left:800px;
 	top:100px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button8{
 	position: absolute;
 	left:300px;
 	top:100px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button9{
 	position: absolute;
 	left:420px;
 	top:200px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button10{
 	position: absolute;
 	left:920px;
 	top:20px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button11{
 	position: absolute;
 	left:1220px;
 	top:10px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button12{
 	position: absolute;
 	left:1350px;
 	top:430px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button13{
 	position: absolute;
 	left:920px;
 	top:300px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 
 .button14{
@@ -127,7 +127,7 @@ body {
 	left:920px;
 	top:400px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 
 .button15{
@@ -135,91 +135,91 @@ body {
 	left:720px;
 	top:400px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button16{
 	position: absolute;
 	left:520px;
 	top:430px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button17{
 	position: absolute;
 	left:520px;
 	top:30px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button18{
 	position: absolute;
 	left:800px;
 	top:510px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button19{
 	position: absolute;
 	left:50px;
 	top:510px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button20{
 	position: absolute;
 	left:100px;
 	top:200px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button21{
 	position: absolute;
 	left:100px;
 	top:350px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button22{
 	position: absolute;
 	left:550px;
 	top:300px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button23{
 	position: absolute;
 	left:920px;
 	top:600px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button24{
 	position: absolute;
 	left:180px;
 	top:600px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button25{
 	position: absolute;
 	left:400px;
 	top:550px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button26{
 	position: absolute;
 	left:800px;
 	top:250px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 .button27{
 	position: absolute;
 	left:1350px;
 	top:250px;
 	right:auto;
-	opacity: 100%;
+	background-color: rgba(255, 153, 36, 0.5); 
 }
 
 
